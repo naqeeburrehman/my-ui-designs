@@ -1,12 +1,4 @@
-import {
-    ArrowRightIcon,
-    BeakerIcon,
-    BellIcon,
-    CogIcon,
-    EyeIcon,
-    KeyIcon,
-    MagnifyingGlassCircleIcon,
-} from "@heroicons/react/24/solid";
+import { ArrowRightIcon, BeakerIcon, BellIcon, EyeIcon, KeyIcon } from "@heroicons/react/24/solid";
 
 const Index = () => {
     return (
